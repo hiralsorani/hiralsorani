@@ -10,12 +10,18 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
         _\///________\///__\///////////////__\///////////////__\///////////////_______\/////_______
 ```
 
-\<h1 align="center">👋 Hi, I'm Hiral Sorani!\</h1>
-
-\<h3 align="center">💻 Flutter Developer | MEAN Stack Developer | AI/ML Enthusiast\</h3>
-
-\<h4 align="center">✨ Building • Learning • Innovating • Exploring ✨\</h4>
-
+# Hiral Sorani
+ 
+**Flutter Developer · Full-Stack (MEAN) Developer · AI/ML Engineer in the making**
+ 
+B.Sc. (Hons.) Computer Science student building cross-platform apps, full-stack web products and intelligent systems powered by LLMs and RAG.
+ 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ---
 
 ## 🚀 About Me
@@ -56,30 +62,26 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
 | 📱 QR Treasure Hunt | QR-based interactive game         | Flutter • Firebase • Flask  |
 
 ---
-
-## 📊 GitHub Statistics
-
-\<p align="center">   \<img src="[https://github-readme-stats.vercel.app/api?username=hiralsorani&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=hiralsorani\&show_icons=true\&theme=tokyonight\&hide_border=true)" height="165"/>   \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=hiralsorani&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=hiralsorani\&layout=compact\&theme=tokyonight\&hide_border=true)" height="165"/> \</p>
-
-## 🔥 GitHub Contribution Streak
-
-\<p align="center">   \<img src="[https://streak-stats.demolab.com?user=hiralsorani&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=hiralsorani\&theme=tokyonight\&hide_border=true)"/> \</p>
-
+ 
+## GitHub Stats
+ 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hiralsorani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hiralsorani&layout=compact&theme=tokyonight&hide_border=true)
+ 
+![Streak Stats](https://streak-stats.demolab.com?user=hiralsorani&theme=tokyonight&hide_border=true)
+ 
+---
+ 
+## Contribution Graph
+ 
+![Contribution Snake](https://raw.githubusercontent.com/hiralsorani/hiralsorani/output/github-contribution-grid-snake-dark.svg)
 ---
 
-## 🌐 Connect With Me
-
-\<p align="center">   \<a href="[https://github.com/hiralsorani](https://github.com/hiralsorani)">GitHub\</a> •   \<a href="[https://leetcode.com/u/CodeCaffeineX/](https://leetcode.com/u/CodeCaffeineX/)">LeetCode\</a> \</p>
-
+## Connect
+ 
+[![GitHub](https://img.shields.io/badge/GitHub-hiralsorani-181717?style=flat-square&logo=github)](https://github.com/hiralsorani)
+[![LeetCode](https://img.shields.io/badge/LeetCode-CodeCaffeineX-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/CodeCaffeineX/)
 ---
 
-\<h3 align="center">💡 "First, solve the problem. Then, write the code."\</h3>
+> First, solve the problem. Then, write the code.
 
-\<h3 align="center">✨ Thanks for visiting my profile! Happy Coding! 🚀\</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hiralsorani/hiralsorani/output/github-contribution-grid-snake-dark.svg" />
-</p>
-⭐ Thanks for visiting my GitHub profile! Feel free to explore my repositories and projects.
-
-**Happy Coding! 🚀**
