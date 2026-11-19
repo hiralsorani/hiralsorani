@@ -52,15 +52,19 @@ B.Sc. (Hons.) Computer Science student building cross-platform apps, full-stack 
 
 ---
 
-## 💼 Featured Projects
-
-| **Project**         | **Description**                   | **Technologies**            |
-| ------------------- | --------------------------------- | --------------------------- |
-| ❤️ MyHeartMate AI   | Cardiovascular disease prediction | Python • Flask • ML         |
-| 💬 ChatX            | Real-time chat application        | Flutter • Firebase • GetX   |
-| 🛒 Watch E-Commerce | Full-stack shopping platform      | Angular • Node.js • MongoDB |
-| 📱 QR Treasure Hunt | QR-based interactive game         | Flutter • Firebase • Flask  |
-
+---
+ 
+## Featured Projects
+ 
+| Project | What it does | Stack |
+| --- | --- | --- |
+| **MyHeartMate AI** | Predicts cardiovascular disease risk using machine learning | Python, Flask, ML |
+| **Chat with PDF** | Answers questions from uploaded PDFs using retrieval-augmented generation | Python, RAG, ChromaDB, Flask |
+| **ChatX** | Real-time chat application | Flutter, Firebase, GetX |
+| **Watch E-Commerce** | Full-stack online shopping platform | Angular, Node.js, MongoDB |
+| **Matrimonial / Dating App** | Cross-platform matchmaking app | Flutter, SQLite |
+ 
+---
 ---
  
 ## GitHub Stats
