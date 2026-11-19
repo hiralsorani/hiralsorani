@@ -115,7 +115,9 @@ Interactive QR-based treasure hunt application.
 \<p align="center">
 \<img src="[https://komarev.com/ghpvc/?username=hiralsorani&label=Profile%20Views&color=blueviolet&style=flat](https://komarev.com/ghpvc/?username=hiralsorani\&label=Profile%20Views\&color=blueviolet\&style=flat)" />
 \</p>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hiralsorani/hiralsorani/output/github-contribution-grid-snake-dark.svg" />
+</p>
 ⭐ Thanks for visiting my GitHub profile! Feel free to explore my repositories and projects.
 
 **Happy Coding! 🚀**
